@@ -83,13 +83,10 @@ Charreau Bell, Ph.D. Senior Data Scientist
 Vanderbilt University Data Science Institute  
 charreau.s.bell@vanderbilt.edu  
 
-Umang Chaudhry, Data Scientist  
+Soyeon Park, Graduate Student
 Vanderbilt University Data Science Institute   
-umang.chaudhry@vanderbilt.edu
+soyeon.park@vanderbilt.edu 
 
-Soyeon Park, soyeon.park@vanderbilt.edu  
-Li Yuan, li.yuan@vanderbilt.edu  
-Jess Boyle, jessica.r.boyle@vanderbilt.edu  
-Michael Bruebach, michael.s.bruebach@vanderbilt.edu  
-Christina Lee, christina.lee@vanderbilt.edu  
-Ali Hussain, ali.a.hussain@vanderbilt.edu  
+Li Yuan, Graduate Student
+Vanderbilt University Data Science Institute   
+li.yuan@vanderbilt.edu  
