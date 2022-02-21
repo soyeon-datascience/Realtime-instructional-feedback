@@ -1,0 +1,27 @@
+name: wise-env
+channels:
+  - defaults
+  - conda-forge
+  - fastai
+dependencies:
+  - numpy
+  - pandas
+  - conda
+  - transformers
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - python
+  - pip
+  - jupyter
+  - jupyterlab
+  - cudatoolkit=11.1
+  - torchaudio
+  - pysoundfile
+  - pytorch
+  - python-docx
+  - torchvision
+  - nbdev
+  - datasets
+  - librosa
+  - docx2txt
